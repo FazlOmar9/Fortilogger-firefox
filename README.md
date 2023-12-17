@@ -1,4 +1,4 @@
-# FortiLogger v2.0.2 - Firefox Only
+# FortiLogger v2.0.3 - Firefox Only
 
 ## Introduction
 
